@@ -31,4 +31,9 @@ body{
 
 .bolder{
   font-weight: bolder;
+  color: #003806;
+}
+
+.playlist{
+  text-align: center;
 }
