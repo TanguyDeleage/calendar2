@@ -27,7 +27,7 @@ body{
   justify-content: center;
 }
 
-.boxes .box{
+.box{
   margin: 1rem;
   padding: 1rem;
   width: 6rem;
@@ -42,7 +42,7 @@ body{
 /* Les cas spéciaux */
 
 /* ----------Le jour */
-.boxes .box .jour{
+.jour{
   background-color: #630404;
 }
 
@@ -57,10 +57,10 @@ body{
 
 /* ----------Soir */
 
-.boxes .box .soir {
+.soir {
     background-color: #001d53 !important;
   }
 
-.boxes .box .soir h1 {
+.soir h1 {
   color: #C7A479 !important;
 }
