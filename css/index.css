@@ -28,7 +28,6 @@ body{
 }
 
 .boxes .box{
-  background-color: #630404;
   margin: 1rem;
   padding: 1rem;
   width: 6rem;
@@ -40,6 +39,14 @@ body{
   text-decoration: none;
 }
 
+/* Les cas spéciaux */
+
+/* ----------Le jour */
+.boxes .box .jour{
+  background-color: #630404;
+}
+
+/* ----------Special */
 .special {
     background-color: #C7A479 !important;
   }
@@ -48,10 +55,12 @@ body{
   color: #630404 !important;
 }
 
-.soir {
+/* ----------Soir */
+
+.boxes .box .soir {
     background-color: #001d53 !important;
   }
 
-.soir h1 {
+.boxes .box .soir h1 {
   color: #C7A479 !important;
 }
