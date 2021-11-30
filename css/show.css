@@ -37,3 +37,8 @@ body{
 .playlist{
   text-align: center;
 }
+
+.reco_insta ul li a{
+  text-decoration: none;
+  color: #630404;
+}
