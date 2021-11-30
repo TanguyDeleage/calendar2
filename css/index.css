@@ -47,3 +47,11 @@ body{
 .special h1 {
   color: #630404 !important;
 }
+
+.soir {
+    background-color: #001d53 !important;
+  }
+
+.soir h1 {
+  color: #C7A479 !important;
+}
